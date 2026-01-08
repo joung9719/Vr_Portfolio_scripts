@@ -1,7 +1,5 @@
 # VR Portfolio Scripts
-
 VR 강아지 키우기 프로젝트에서 제가 담당한 스크립트를 정리한 레포입니다
-
 #담당 기능
 -이름 입력 키보드
 -씬 전환 및 로딩(Loading Scene->Target Scene)
